@@ -1,3 +1,5 @@
+** Project has been deprecated. Check out the better version @ [Zimmermanv2](https://github.com/X1Zeth2X/zimmermanv2) **
+
 # Zimmerman
 This is Konishi's Back-End written in Python.
 
